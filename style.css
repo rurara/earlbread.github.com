@@ -31,6 +31,8 @@ a:hover, a:active, a:focus {
 }
 /* css reset */
 
-#map_wrap {
+#map_wrap, #pic_wrap {
 	width: 100%;
 }
+
+
