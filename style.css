@@ -31,7 +31,7 @@ a:hover, a:active, a:focus {
 }
 /* css reset */
 
-#map_wrap, #pic_wrap {
+#map_wrap img, #pic_wrap img {
 	width: 100%;
 }
 
