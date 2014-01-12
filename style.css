@@ -30,3 +30,7 @@ a:hover, a:active, a:focus {
 	display: none;
 }
 /* css reset */
+
+#map_wrap {
+	width: 100%;
+}
